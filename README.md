@@ -18,7 +18,15 @@ For full technical details of this project, please refer to my [report](FinalRep
 
 ### 1.2 Tasks
 
+In this project, my goals are:
 
+-
+
+-
+
+-
+
+-
 
 ### 1.3 Environment
 
