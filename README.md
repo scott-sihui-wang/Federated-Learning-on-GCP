@@ -12,4 +12,6 @@ This is the course project for CMPT 756: `Distributed and Cloud Systems`.
 
 ### 1.2 Tasks
 
+### 1.3 Environment
+
 ## 2. Acknowledgement
