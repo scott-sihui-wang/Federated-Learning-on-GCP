@@ -18,9 +18,9 @@ For full technical details of this project, please refer to my [report](FinalRep
 
 ### 1.2 Tasks
 
-In this project, my goals are:
+In this project, my contributions are:
 
--
+- Implemented 
 
 -
 
