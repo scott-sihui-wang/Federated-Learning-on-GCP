@@ -12,6 +12,8 @@ This is the course project for CMPT 756: `Distributed and Cloud Systems`. In thi
 
 I also discussed how `clients' partial participation`, `reduced level of synchronization`, and `the presence of stragglers` might impact `communication efficiency` and `model accuracy` of `federated learning` algorithms.
 
+For full technical details of this project, please refer to my [report](FinalReport.pdf).
+
 ### 1.2 Tasks
 
 ### 1.3 Environment
