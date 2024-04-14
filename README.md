@@ -10,7 +10,7 @@
 
 This is the course project for CMPT 756: `Distributed and Cloud Systems`. In this project, I implemented and evaluated some of `synchronous` and `asynchronous` `gradient aggregation algorithms` on a small cluster of computers deployed on `Google Cloud Platform` (GCP).
 
-
+I also discussed how `clients' partial participation`, `reduced level of synchronization`, and `the presence of stragglers` might impact `communication efficiency` and `model accuracy` of `federated learning` algorithms.
 
 ### 1.2 Tasks
 
