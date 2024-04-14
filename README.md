@@ -20,7 +20,7 @@ For full technical details of this project, please refer to my [report](FinalRep
 
 In this project, my contributions are:
 
-- Implemented 
+- Implemented a variant of federated learning algorithm, `FedPAQ` [paper link](https://arxiv.org/pdf/1909.13014.pdf), based on `flower` [repository link](https://github.com/adap/flower).
 
 -
 
