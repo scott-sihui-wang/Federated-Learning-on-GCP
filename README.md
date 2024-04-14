@@ -20,9 +20,9 @@ For full technical details of this project, please refer to my [report](FinalRep
 
 In this project, my contributions are:
 
-- Implemented a variant of federated learning algorithm, `FedPAQ` [paper link](https://arxiv.org/pdf/1909.13014.pdf), based on `flower` [repository link](https://github.com/adap/flower);
+- Implemented a variant of federated learning algorithm, `FedPAQ` [paper link](https://arxiv.org/pdf/1909.13014.pdf), based on `flower`;
 
-- Adapted an _asynchronous_ federated learning algorithm code for deloyment and experiments on the cloud;
+- Adapted codes of _asynchronous_ federated learning algorithms for deloyment and experiments on the cloud;
 
 - Deployed the federated learning models to GCP;
 
@@ -31,6 +31,18 @@ In this project, my contributions are:
 - Evaluated and compared _synchronous_ and _asynchronous_ federated learning algorithms, with a focus on `straggler's effect`.
 
 ### 1.3 Environment
+
+#### Synchrnous Federated Learning
+
+The _synchronous_ algorithms are built upon the federated learning package, `Flower`. `Ubuntu 20.04 LTS` and `Pytorch 1.10.0` are required for my implementation.
+
+For more information about the experiments on GCP, please refer to [readMe](ReadME_1.txt).
+
+#### Asynchrnous Federated Learning
+
+The _asynchronous_ algorithms require `Ubuntu 20.04 LTS`, `Pytorch 1.4.0`, and `PySyft 0.2.4`.
+
+For more information about the experiments on GCP, please refer to [readMe](ReadME_2.txt).
 
 ## 2. Acknowledgement
 
