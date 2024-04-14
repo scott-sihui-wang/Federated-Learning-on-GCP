@@ -20,13 +20,13 @@ For full technical details of this project, please refer to my [report](FinalRep
 
 In this project, my contributions are:
 
-- Implemented a variant of federated learning algorithm, `FedPAQ` [paper link](https://arxiv.org/pdf/1909.13014.pdf), based on `flower` [repository link](https://github.com/adap/flower).
+- Implemented a variant of federated learning algorithm, `FedPAQ` [paper link](https://arxiv.org/pdf/1909.13014.pdf), based on `flower` [repository link](https://github.com/adap/flower);
 
--
+- Deployed the federated learning models to GCP;
 
--
+- Evaluated and compared _synchronous_ federated learning algorithms, `FedAvg` and `FedPAQ`;
 
--
+- 
 
 ### 1.3 Environment
 
