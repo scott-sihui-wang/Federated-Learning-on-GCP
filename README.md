@@ -32,13 +32,13 @@ In this project, my contributions are:
 
 ### 1.3 Environment
 
-#### Synchrnous Federated Learning
+#### 1.3.1 Synchrnous Federated Learning
 
 The _synchronous_ algorithms are built upon the federated learning package, `Flower`. `Ubuntu 20.04 LTS` and `Pytorch 1.10.0` are required for my implementation.
 
 For more information about the experiments on GCP, please refer to [readMe](ReadME_1.txt).
 
-#### Asynchrnous Federated Learning
+#### 1.3.2 Asynchrnous Federated Learning
 
 The _asynchronous_ algorithms require `Ubuntu 20.04 LTS`, `Pytorch 1.4.0`, and `PySyft 0.2.4`.
 
