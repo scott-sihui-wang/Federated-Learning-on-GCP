@@ -22,11 +22,13 @@ In this project, my contributions are:
 
 - Implemented a variant of federated learning algorithm, `FedPAQ` [paper link](https://arxiv.org/pdf/1909.13014.pdf), based on `flower` [repository link](https://github.com/adap/flower);
 
+- 
+
 - Deployed the federated learning models to GCP;
 
 - Evaluated and compared _synchronous_ federated learning algorithms, `FedAvg` and `FedPAQ`;
 
-- 
+- Evaluated and compared _synchronous_ and _asynchronous_ federated learning algorithms, with a focus on `straggler's effect`.
 
 ### 1.3 Environment
 
