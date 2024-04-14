@@ -8,7 +8,9 @@
 
 ### 1.1 Motivation
 
-This is the course project for CMPT 756: `Distributed and Cloud Systems`.
+This is the course project for CMPT 756: `Distributed and Cloud Systems`. In this project, I implemented and evaluated some of `synchronous` and `asynchronous` `gradient aggregation algorithms` on a small cluster of computers deployed on `Google Cloud Platform` (GCP).
+
+
 
 ### 1.2 Tasks
 
